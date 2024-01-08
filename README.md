@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Desarrollo Web](https://github.com/galbooa/Calculadora-de-amor)
 
-- :microsoft: Soy Embajador en el programa de Microsoft Learn Student Ambassador!
+- 👑 Soy Embajador en el programa de Microsoft Learn Student Ambassador!
 
 - 🌱 Actualmente estoy aprendiendo **cursos de desarrollo web**
 
